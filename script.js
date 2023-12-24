@@ -5,6 +5,5 @@ let math = function(num1,num2)=>{
 	output = 2*num1;
 	res =num2 + output;
 }
-let result = res;
+let result = math();
 console.log("The final result is" + result); 
-math();
