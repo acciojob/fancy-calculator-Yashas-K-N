@@ -7,4 +7,4 @@ let math = function(num1, num2){
 }
 let result = res;
 console.log(result);
-function();
+function(num1,num2);
