@@ -7,5 +7,5 @@ let math = function(num1,num2){
 	}
 	return res;
 }
-let result = math(4,3);
+let result = math();
 console.log("The final result is:" + result); 
