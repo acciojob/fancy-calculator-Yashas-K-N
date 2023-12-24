@@ -6,5 +6,5 @@ let math = function(num1,num2)=>{
 	res =num2 + output;
 }
 let result = res;
-console.log("The final result is" + result);
-function();
+console.log("The final result is" + result); 
+math();
